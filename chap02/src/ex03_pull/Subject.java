@@ -1,4 +1,4 @@
-package chap02;
+package ex03_pull;
 
 public interface Subject {
 	public void registerObserver(Observer o);
